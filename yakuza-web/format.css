@@ -1,0 +1,45 @@
+body {
+    background: #0b8793;
+    background: -webkit-linear-gradient(to top, #eea849, #360033);
+    background: linear-gradient(to top, #eea849, #360033);
+}
+
+.header {
+    background-color: #480048;
+
+    /* background: #C04848;  
+    background: -webkit-linear-gradient(to top, #480048, #C04848);  
+    background: linear-gradient(to top, #480048, #C04848);  */
+
+    /* background: #C04848;
+    background: -webkit-linear-gradient(to bottom, #480048, #C04848);  
+    background: linear-gradient(to bottom, #480048, #C04848); */
+
+    /* background: #0B486B;  /* fallback for old browsers */
+    /* background: -webkit-linear-gradient(to bottom, #F56217, #0B486B);  /* Chrome 10-25, Safari 5.1-6 */
+    /* background: linear-gradient(to bottom, #F56217, #0B486B); W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+.navbar-brand{
+    color: blanchedalmond;    
+}
+
+.nav-link {
+    color: blanchedalmond;
+}
+
+.Li li{
+    text-align: left;
+    display: inline-block;
+}
+
+.Derechos {
+    text-align: center;
+}
+
+#icon-burger {
+    color: black;
+}
+
+

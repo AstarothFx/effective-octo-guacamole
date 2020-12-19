@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="utf-8"/>
+        <link rel="icon" type="images/png" href="images/Rockstars.png">
+        <title>Yakuza</title>
+        <meta name="Desciption" content="Test"/>
+        <meta name="author" content="Astaroth"/>
+        <meta name="Keywords" content="Yakuza, Gang, Trap, RumbososBoys, Rap, Moon"/>
+        <link rel="stylesheet" href="estilos.css">
+    </head>
+
+    <body>
+        <div class="agrupar">
+            <header class="header">
+                <h1>RumbososBoys</h1>
+            </header> 
+            
+            <nav class="Li">
+                <ul>
+                    <li>Principal</li>
+                    <li>Ayuda</li>
+                    <li>contacto</li>
+                </ul>
+            </nav>
+    
+            <section class="secc">
+                <article class="art">
+                    <time datetime="15-12-2020">Coming soon</time>
+                    <hgroup>
+                        <h1>Primer articulo</h1>
+                        <h2>Subtitle</h2>
+                    </hgroup>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio, numquam quibusdam! Perspiciatis vel eaque quis, harum eos fuga, nihil aliquam saepe delectus illum minus rem sapiente excepturi officia optio eligendi.</p>
+                    
+                    <footer>
+                        <p>comentarios (0)</p>
+                    </footer>
+                </article>
+                <article class="art2">
+                    <time datetime="15-12-2020">Coming soon</time>
+                    <hgroup>
+                        <h1>Segundo articulo</h1>
+                        <h2>Subtitle2</h2>
+                    </hgroup>
+                    <p>Lorem <small>iSpsum dolor sit amet consectetur adipisicing elit</small>. Quis eligendi suscipit eum, sit amet soluta, quidem, temporibus voluptate odio deserunt quae. Facere commodi in nam quia. Ullam consequuntur nam reiciendis!</p>
+                    <img src="# ">
+                    <footer>
+                        <p>comentarios (10)</p>
+                    </footer>
+                    <address>
+                        <a href="http://google.com">Si tienes dudas</a>
+                    </address>
+                </article>
+            </section>
+    
+            <aside>
+                <blockquote>
+                    mensaje 1       
+                </blockquote>   
+                <blockquote>
+                    mensaje 2           
+                </blockquote>  
+            </aside>
+        
+            <footer style="color: coral;">
+                <p class="Derechos">Derechos reserados 2020-2021</p>
+            </footer>
+        </div>
+       
+    </body>
+</html>
+
+
+
+
+
+    background: #f46b45;
+    background: -webkit-linear-gradient(to top, #eea849, #f46b45);
+    background: linear-gradient(to top, #eea849, #f46b45);
